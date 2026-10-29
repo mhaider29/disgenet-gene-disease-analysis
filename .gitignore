@@ -1,0 +1,8 @@
+# Large raw data files (download from the source instead)
+disgenet.csv
+*.zip
+
+# Editor and Mac system files
+.idea/
+.vscode/
+.DS_Store
